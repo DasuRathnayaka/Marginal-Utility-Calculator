@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647597638 source:c:\users\dasur\desktop\econ code\economics assignment 2\econocode\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
